@@ -37,7 +37,7 @@ This project is 5th project of Udacity's Full Stack Web Developer Nanodgree and 
 - Install Finger tool with the command `sudo apt-get install finger`
 - Open another terminal and log to folder ~/.ssh
 - Write `ssh-keygen -f ~/.ssh/udacity.rsa`
-- Enter passphrase 'As ypu like'
+- Enter passphrase 'aisha'
 - write cat `~/.ssh/udacity.rsa.pub`, you will get `ssh-rsa`
 - Now you stil in the root, go to `cd /home/grader`
 - Make new directory called .ssh using the command `mkdir .ssh`
